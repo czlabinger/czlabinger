@@ -9,8 +9,10 @@ Topics I`m interested in:
 
 
 # My Stats
-![czlabinger's GitHub stats](https://github-readme-stats.vercel.app/api?username=czlabinger&show_icons=true)
+![czlabinger's Stats](https://github-readme-stats.vercel.app/api?username=czlabinger&theme=onedark&show_icons=true&hide_border=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=czlabinger&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![czlabinger's Streak](https://github-readme-streak-stats.herokuapp.com/?user=czlabinger&theme=onedark&hide_border=true)
+
+![czlabinger's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=czlabinger&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 
 # I use Arch btw.
