@@ -18,6 +18,7 @@ Topics I`m interested in:
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html" width="45" /> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css" width="45" /> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="45" /> </a> 
+    <a href="https://nixos.org/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/nixos-icon-256x223-5nl9a9lw.png" alt="nix" width="45" /> </a> 
 </p>
 
 # 📊 My Stats
