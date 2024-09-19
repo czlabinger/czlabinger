@@ -10,6 +10,7 @@ Topics I`m interested in:
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
+    <a href="https://linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2048px-Icons8_flat_linux.svg.png" alt="linux" width="45" /> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" /> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="springboot" width=45 /> </a> 
     <a href="https://www.rust-lang.org" target="_blank"> <img src="https://rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="45" /> </a>
@@ -19,7 +20,6 @@ Topics I`m interested in:
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css" width="45" /> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="45" /> </a> 
     <a href="https://nixos.org/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/nixos-icon-256x223-5nl9a9lw.png" alt="nix" width="45" /> </a> 
-    <a href="https://linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2048px-Icons8_flat_linux.svg.png" alt="linux" width="45" /> </a> 
 </p>
 
 # 📊 My Stats
@@ -30,3 +30,4 @@ Topics I`m interested in:
 ![czlabinger's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=czlabinger&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 
 # I used Arch btw
+# I use NixOS btw
