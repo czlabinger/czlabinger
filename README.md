@@ -1,6 +1,7 @@
 # 🙋‍♂️ About Me
 
 Topics I`m interested in:
+* Nix/NixOS
 * Linux
 * Rust
 * Data Science
