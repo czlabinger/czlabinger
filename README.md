@@ -30,5 +30,11 @@ Topics I`m interested in:
 
 ![czlabinger's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=czlabinger&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 
+# Contact me
+
+* Mail: stoffi05[at]pm[dot]me
+* Matrix: me.hgb50c.xyz:czlabinger
+* Discord: stoffi05
+
 # I used Arch btw
 # I use NixOS and Hyprland :3
