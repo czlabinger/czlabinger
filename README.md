@@ -33,7 +33,7 @@ Topics I`m interested in:
 # Contact me
 
 * Mail: stoffi05[at]pm[dot]me
-* Matrix: me.hgb50c.xyz:czlabinger
+* Matrix: [@czlabinger:me.hgb50c.xyz](https://matrix.to/#/@czlabinger:me.hgb50c.xyz)
 * Discord: stoffi05
 
 # I used Arch btw
