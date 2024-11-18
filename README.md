@@ -1,4 +1,4 @@
-# 🙋‍♂️ About Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" width = 50px /><b> About me</b>
 
 Topics I`m interested in:
 * Nix/NixOS
@@ -8,7 +8,7 @@ Topics I`m interested in:
 * AI
 * Java
 
-## 🚀 Languages and Tools:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="left"> 
     <a href="https://linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2048px-Icons8_flat_linux.svg.png" alt="linux" width="45" /> </a> 
@@ -23,7 +23,7 @@ Topics I`m interested in:
     <a href="https://nixos.org/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/nixos-icon-256x223-5nl9a9lw.png" alt="nix" width="45" /> </a> 
 </p>
 
-# 📊 My Stats
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 ![czlabinger's Stats](https://github-readme-stats.vercel.app/api?username=czlabinger&theme=onedark&show_icons=true&hide_border=true&count_private=true)
 
 ![czlabinger's Streak](https://github-readme-streak-stats.herokuapp.com/?user=czlabinger&theme=onedark&hide_border=true)
