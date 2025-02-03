@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" width = 50px /><b> About me</b>
 
-Topics I`m interested in:
+Topics I'm interested in:
 * Nix/NixOS
 * Linux
 * Rust
