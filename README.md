@@ -36,5 +36,5 @@ Topics I'm interested in:
 * Matrix: [@czlabinger:me.hgb50c.xyz](https://matrix.to/#/@czlabinger:me.hgb50c.xyz)
 * Discord: stoffi05
 
-# I used Arch btw
+# I use Arch and Hyprland btw
 # I use NixOS and Hyprland :3
